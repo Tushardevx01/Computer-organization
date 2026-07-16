@@ -1,95 +1,123 @@
+<div align="center">
 
-# 🖥️ Computer Organization – Lab Codes
+# 🖥️ Computer Organization Lab Codes
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Tusharxhub/Computer-organization?style=for-the-badge&color=brightgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/Tusharxhub/Computer-organization?style=for-the-badge&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/Tusharxhub/Computer-organization?style=for-the-badge&color=yellow)
+A curated collection of **8085 Assembly Language** programs developed during the **Computer Organization Laboratory**. This repository covers fundamental concepts of microprocessor programming, including arithmetic operations, memory manipulation, control flow, and array processing.
 
-A **collection of assembly lab codes** created as part of my *Computer Organization* coursework.  
-Each program demonstrates fundamental operations in **8085 microprocessor assembly language**, focusing on arithmetic, logical, and memory-based instructions.
+</div>
+
+---
+
+## ✨ Topics Covered
+
+- 🔢 Arithmetic operations (Addition, Subtraction, Division)
+- 🧮 Accumulator-based instructions
+- 📦 Data transfer instructions
+- 🔁 Looping and conditional branching
+- 📊 Largest and smallest number programs
+- 📂 Array processing techniques
+- 🧠 Memory access and manipulation
+- 📝 Well-commented assembly programs for easy understanding
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| 8085 Assembly Language | Programming |
+| EMU8086 / GNUSim8085 | Emulator |
+| Assembly Language | Low-level Programming |
 
 ---
 
 ## 📂 Repository Structure
 
+```text
+Computer-organization/
+├── Day 1/
+├── Day 2/
+├── Day 3/
+├── Day 4/
+├── Day 5/
+├── Day 6/
+└── README.md
 ```
 
-📁 Computer-organization
-├── 📜 Day 1/   # Basic introduction to 8085 assembly
-├── 📜 Day 2/   # Subtraction and accumulator operations
-├── 📜 Day 3/   # Addition and carry/borrow handling
-├── 📜 Day 4/   # Division and program clarity refinements
-├── 📜 Day 5/   # Finding largest/smallest numbers
-├── 📜 Day 6/   # Array and looping logic in assembly
-└── 📜 README.md
-
-````
-
-> **Note:** Each *Day* corresponds to a specific lab session or topic covered in class.
+Each folder contains programs from a specific laboratory session or topic.
 
 ---
 
-## 🧠 Learning Focus
+## 🚀 Getting Started
 
-By studying these programs, you’ll gain hands-on experience in:
-- Understanding **8085 microprocessor architecture**  
-- Writing and debugging **assembly-level code**  
-- Practicing **data transfer, arithmetic, and logical instructions**  
-- Implementing **control flow and looping** in assembly  
-- Enhancing readability through structured commenting and labeling  
+### Clone the Repository
 
----
+```bash
+git clone https://github.com/tushardevx01/Computer-organization.git
+```
 
-## 🛠️ Tools Used
+### Navigate to the Project
 
-- **EMU8086** or **GNUSim8085** emulator  
-- **8085 Assembly Language**  
-- Development environment: *Adamas University Lab*  
+```bash
+cd Computer-organization
+```
 
----
+### Run a Program
 
-## 🚀 How to Run
+Open any `.asm` file using **EMU8086** or **GNUSim8085**, then:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Tusharxhub/Computer-organization.git
-
-
-2. Navigate to any day’s folder:
-
-   ```bash
-   cd Computer-organization/Day\ 3
-   ```
-3. Open the `.asm` file in your emulator (EMU8086 or GNUSim8085).
-4. Assemble, run, and observe the program execution.
+1. Assemble the program.
+2. Execute the code.
+3. Observe register values and memory changes.
 
 ---
 
- 📅 Update Schedule
+## 📚 Learning Outcomes
 
-🗓 Updated **every Monday** with new or improved assembly programs.
-Each commit includes clear comments and refined structure for better readability.
+This repository helps you understand:
 
----
-
- 🤝 Contributions
-
-This is a **personal academic project**, but community contributions are welcome.
-If you’d like to optimize, clean, or extend any program:
-
-* Fork the repo
-* Make your changes
-* Submit a pull request
-
-> 💡 Even small improvements help others learn better.
+- 8085 Microprocessor Architecture
+- Assembly Language Programming
+- Arithmetic and Logical Instructions
+- Data Transfer Operations
+- Looping and Conditional Branching
+- Memory Addressing Techniques
+- Debugging Assembly Programs
 
 ---
 
- 📬 Contact
+## 📅 Updates
 
-📧 [*Email*](mailto:t.k.d.dey2033929837@gmail.com)
-🔗 [*GitHub*](https://github.com/Tusharxhub)
-📸 [*Instagram*](https://www.instagram.com/tushardevx01/)
+New lab programs and improvements are added regularly as coursework progresses.
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Push the branch.
+5. Open a Pull Request.
+
+---
+
+## 📬 Connect With Me
+
+- **GitHub:** https://github.com/tushardevx01
+- **Portfolio:** https://tushardevx01.tech
+- **LinkedIn:** https://www.linkedin.com/in/tushardevx01
+- **Instagram:** https://www.instagram.com/tushardevx01/
+- **Email:** t.k.d.dey2033929837@gmail.com
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Tushar Kanti Dey**
+
+⭐ If you found this repository helpful, consider giving it a star.
+
+</div>
